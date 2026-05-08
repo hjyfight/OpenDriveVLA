@@ -11,7 +11,7 @@
 
 - [Todo List](#todo-list-)
 - [News](#news-)
-- [Getting Started](#getting-started-)
+- [Getting Started](#getting-started-)  
 - [Citation](#citation-)
 
 ## TODO List 📅

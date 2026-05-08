@@ -13,7 +13,7 @@ def evaluate_planning_oriented_vlm(output_path):
     out_dir = os.path.dirname(output_path)
     
     pred_trajs_dict = {}
-    pred_trajs_multi_modal_dict = {}
+    pred_trajs_multi_modal_dict = {} 
 
     with open(output_path, 'r') as f:
         for line in f:
